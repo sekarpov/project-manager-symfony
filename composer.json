@@ -1,4 +1,6 @@
 {
+    "name": "sekarpov/project-manager",
+    "description": "",
     "type": "project",
     "license": "proprietary",
     "require": {
